@@ -24,8 +24,7 @@ main > section.items {
     padding: 20px;
     max-width: 500px;
     min-width: 300px;
-    justify-content: center;
-    
+    justify-content: center;   
 }
 
 section.items .product {
@@ -38,7 +37,6 @@ section.items .product {
 
 section.items .product.selected {
     border: 2px solid rgb(29, 134, 233);
-
 }
 
 section.items .photo img {
